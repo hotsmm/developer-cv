@@ -490,7 +490,7 @@ ul, li {
 }
 
 #home-index {
-	background: url(../img/home-bg.jpg);
+	background: url(../img/home-background.jpg);
 	width: 100%;
 	background-position:center;
 	background-repeat:no-repeat;
@@ -1011,7 +1011,7 @@ input[type='range']::-webkit-slider-thumb:active {
 	font-family: Gilroy-Bold;
 	font-size: 22px;
 	line-height: 22px;
-	color: #96ADFF;
+	color: var(--corporate-color-1);
 	width: 98%;
 }
 
@@ -1403,7 +1403,7 @@ input[type='range']::-webkit-slider-thumb:active {
 }/* End Contacts phone */
 
 .contacts-section {
-	background: url(../img/footer-bg2.jpg) center;
+	background: url(../img/footer-background.jpg) center;
 	background-size: cover;
 	padding-top: 0;
 	padding-bottom: 0;
