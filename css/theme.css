@@ -514,7 +514,7 @@ ul, li {
 	font-weight: 600;
     	font-size: 34px;
     	letter-spacing: 2px;
-    	text-transform: uppercase;
+    	/*text-transform: uppercase;*/
     	margin-bottom: 40px;
 }
 
