@@ -64,6 +64,9 @@
     src: url(../fonts/Gilroy/Gilroy-Black.ttf);
 }
 
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=El+Messiri:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 h2 {
 	font-family: Gilroy-Bold;
 	color: var(--default-color);
@@ -491,6 +494,7 @@ ul, li {
 
 #home-index {
 	/*background: url(../img/footer-background.jpg) center;*/
+	/*background: url(../img/home-background.jpg) center;*/
 	background: url(../img/home-bg.jpg) center;
 	width: 100%;
 	background-position:center;
@@ -511,19 +515,18 @@ ul, li {
 .home-title {
 	color: #fff;
 	font-family: Gilroy-Bold;
-	font-weight: 600;
-    	font-size: 34px;
-    	letter-spacing: 2px;
-    	/*text-transform: uppercase;*/
-    	margin-bottom: 40px;
+	font-weight: 500;
+    font-size: 34px;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
 }
 
 .home-subtitle {
-	font-family: HelveticaNeueCyr-Roman;;
+	/*font-family: HelveticaNeueCyr-Roman;*/
+	font-family: Gilroy-Semibold;
 	font-size: 24px;
-    	text-align: justify;
-    	color: #fff;
-    	font-weight: 500;
+    text-align: justify;
+    color: #fff;    
 }
 
 .img-container {
