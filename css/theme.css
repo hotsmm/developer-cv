@@ -517,7 +517,7 @@ ul, li {
 	font-family: Gilroy-Bold;
 	font-weight: 500;
     font-size: 34px;
-    letter-spacing: 2px;
+    /*letter-spacing: 2px;*/
     margin-bottom: 40px;
 }
 
